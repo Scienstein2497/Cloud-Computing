@@ -1,4 +1,0 @@
-# Smart Photo Album
-
-
-
