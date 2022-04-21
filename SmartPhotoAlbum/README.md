@@ -1,6 +1,4 @@
 # Smart Photo Album
-(My Youtube Video Demo)
-https://www.youtube.com/watch?v=xSYp1JsPXb8
 
 ### Architecture Diagram
 
