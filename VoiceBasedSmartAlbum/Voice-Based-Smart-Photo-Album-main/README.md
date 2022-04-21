@@ -2,7 +2,7 @@
 
 ### A Voice based Photo Album using AWS Services | Cloud Computing and Big Data Systems
 
-###### S3 BUCKET LINK FOR THE album : http://myawsbucket-frontend.s3-website-us-east-1.amazonaws.com/
+
 ---
 
 ## INSTRUCTIONS :
