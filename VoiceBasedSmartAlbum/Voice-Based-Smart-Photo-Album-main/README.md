@@ -1,8 +1,4 @@
 # Voice Based Smart Photo Search Album
-
-### A Voice based Photo Album using AWS Services
-
-
 ---
 
 ## INSTRUCTIONS :
