@@ -1,6 +1,5 @@
 ## Architecture Diagram for Dining Concierge Chatbot  
   
-> **WIP** 
 
 > **Deployed URL: http://dining-suggestions.s3-website-us-east-1.amazonaws.com/**
 
